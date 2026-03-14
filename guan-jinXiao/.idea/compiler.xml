@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ydy-admin" />
+        <module name="ydy-erp" />
+        <module name="ydy-generator" />
+        <module name="ydy-system" />
+        <module name="ydy-common" />
+        <module name="ydy-framework" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ydy" options="-parameters" />
+      <module name="ydy-admin" options="-parameters" />
+      <module name="ydy-common" options="-parameters" />
+      <module name="ydy-erp" options="-parameters" />
+      <module name="ydy-framework" options="-parameters" />
+      <module name="ydy-generator" options="-parameters" />
+      <module name="ydy-system" options="-parameters" />
+    </option>
+  </component>
+</project>

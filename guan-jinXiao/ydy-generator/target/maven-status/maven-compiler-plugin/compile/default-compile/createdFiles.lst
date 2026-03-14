@@ -1,0 +1,13 @@
+com\ydy\generator\controller\GenController.class
+com\ydy\generator\mapper\GenTableMapper.class
+com\ydy\generator\util\VelocityUtils.class
+com\ydy\generator\util\GenUtils.class
+com\ydy\generator\service\IGenTableService.class
+com\ydy\generator\domain\GenTableColumn.class
+com\ydy\generator\mapper\GenTableColumnMapper.class
+com\ydy\generator\domain\GenTable.class
+com\ydy\generator\config\GenConfig.class
+com\ydy\generator\service\IGenTableColumnService.class
+com\ydy\generator\util\VelocityInitializer.class
+com\ydy\generator\service\GenTableColumnServiceImpl.class
+com\ydy\generator\service\GenTableServiceImpl.class
