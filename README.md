@@ -1,5 +1,5 @@
 <h1>项目介绍</h1>
-这是一个基于SpringBoot 3 + Vue 3技术栈开发的现代化进销存管理系统
+这是一个基于SpringBoot 3 + Vue 3技术栈和若依框架快速开发的现代化进销存管理系统
 <h1>技术栈</h1>
 后端：SpringBoot3 + JWT + Druid + MyBatis
 
