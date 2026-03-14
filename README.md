@@ -6,7 +6,9 @@
 前端：Vue3 + ElementPlus + Axios
 
 数据库： MySQL
-<h1>版本</h1>
+
+<h1>版本</h1> 
+
 jdk: 17
 
 mysql: 8
